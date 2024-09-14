@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**hdzubiria/hdzubiria** is a ✨ Personal ✨ repository 
+**hdzubiria** is a ✨**GIT** Personal ✨ repository  
 
  🔭 I’m currently working on **SofwareOne Colombia**
 -🌱 I’m currently learning **BlockChain** ...
