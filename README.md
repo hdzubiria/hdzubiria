@@ -22,7 +22,7 @@
 
 
 - .Net Developer: WPF, WCF, ASP.Net, MVC
-- Backend Technologies: Python, Node.js
+- Backend Technologies: .Net, Node.js, Python
 - Front-End Frameworks: Angular.js, React, Vue.js
 - Blockchain: Ethereum EVM, Solidity
 
