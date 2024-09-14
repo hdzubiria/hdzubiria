@@ -11,9 +11,9 @@
 * 🤔 I’m looking for help with **Become a Blockchain Architect**...
 * 💬 Ask me about **Azure - ASW - .Net**...
 * 🏆 My Certifications
-   + [AWS Associate Achitect](https://www.credly.com/badges/c9036afc-188e-4afc-948b-673de6be5c92/public_url) 
-   + [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/HaroldoDeZubiria-7170/C3897F47DE1629DB?sharingId=7EAD90115A69DAD)
-   + [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/7bc8a1cb-d764-4bdf-b808-f9a69857323d/public_url)
+   + 🏅 [AWS Associate Achitect](https://www.credly.com/badges/c9036afc-188e-4afc-948b-673de6be5c92/public_url) 
+   + 🏅 [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/HaroldoDeZubiria-7170/C3897F47DE1629DB?sharingId=7EAD90115A69DAD)
+   + 🏅 [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/7bc8a1cb-d764-4bdf-b808-f9a69857323d/public_url)
 
 
 ## My Passionate Techs
@@ -43,10 +43,8 @@ Dominando JavaScript (2024)
 🏅 6x Google Developer Expert (GDE) in Web Technologies for 2019-24, and GDE in Firebase for 2024
 🏆 3x Microsoft MVP (Most Valuable Professional) for 2022-2024 in Developer Technologies
 
-
-
-
 Ejemmplos:
+
 https://github.com/mouredev
 https://github.com/carlosazaustre
 https://github.com/ArisGuimera
